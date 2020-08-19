@@ -139,5 +139,10 @@
 	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/tagsoup-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/xml-path-4.3.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/xml-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Downloads/commons-io-2.7-bin/commons-io-2.7/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Downloads/commons-io-2.7-bin/commons-io-2.7/commons-io-2.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Downloads/commons-io-2.7-bin/commons-io-2.7/commons-io-2.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Downloads/commons-io-2.7-bin/commons-io-2.7/commons-io-2.7-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Downloads/commons-io-2.7-bin/commons-io-2.7/commons-io-2.7-test-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
