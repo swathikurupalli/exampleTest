@@ -1,0 +1,14 @@
+{
+"appId":2231,
+"clientFeedbackId":"f6595202-99b7-4fb4-9eac-87ddd2d4c1c3",
+"manifestType":"Fps",
+"source":"Client",
+"submitTime":"2020-08-13T11:06:41.150Z",
+"survey":{"surveyId":"4a373504-4c47-42e3-9528-f77c04526a72"},
+"type":"Survey",
+"web":{},
+"application":{"appData":"{\"languageCode\":\"\"}"},
+"comment":"",
+"telemetry":{"officeBuild":"","osBuild":"","channel":"","audienceGroup":"Production","deviceId":""},
+"email":""
+}
