@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/artifacts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/async-http-client-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/async-http-client-netty-utils-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/auto-common-0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/auto-service-1.0-rc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/auto-service-annotations-1.0-rc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/byte-buddy-1.10.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/checker-qual-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/com.beust.jcommander.source_1.78.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/com.beust.jcommander_1.78.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/com.google.guava_21.0.0.v20170206-1425.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/content.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/groovy-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/groovy-json-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/groovy-xml-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/grpc-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/gson-2.8.6-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/guava-29.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/json-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/kotlin-stdlib-1.3.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/kotlin-stdlib-common-1.3.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-buffer-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-codec-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-codec-http2-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-codec-http-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-codec-socks-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-common-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-handler-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-handler-proxy-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-resolver-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-transport-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-transport-native-epoll-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/netty-transport-native-kqueue-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.testng.eclipse.maven.feature_7.3.0.202008060412.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.testng.eclipse.maven_7.3.0.202008060412.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.testng.eclipse_7.3.0.202008060412.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.testng.p2.feature_7.3.0.r202008060316.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.testng.source_7.3.0.r202008060316.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.testng_7.3.0.r202008060316.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.yaml.snakeyaml.source_1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/org.yaml.snakeyaml_1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/rest-assured-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/rest-assured-4.3.1-javadoc.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/rest-assured-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-api-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-api-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-chrome-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-chrome-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-chromium-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-chromium-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-devtools-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-devtools-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-edge-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-edge-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-edgehtml-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-edgehtml-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-firefox-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-firefox-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-firefox-xpi-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-firefox-xpi-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-http-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-http-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-ie-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-ie-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-java-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-java-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-json-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-json-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-opera-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-opera-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-remote-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-remote-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-safari-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-safari-driver-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-support-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/selenium-support-4.0.0-alpha-6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/xml-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duggu/Desktop/lib/xml-path-4.3.1-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
